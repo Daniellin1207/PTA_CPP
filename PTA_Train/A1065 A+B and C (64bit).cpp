@@ -4,7 +4,7 @@
 #include <algorithm>
 using namespace std;
 
-int main() {
+int main1065a() {
 	int T, tcase = 1;
 	scanf("%d", &T);
 	while (T--)
