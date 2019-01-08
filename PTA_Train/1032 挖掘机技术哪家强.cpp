@@ -3,7 +3,7 @@
 
 int team[100010] = {0};
 
-int main() {
+int main1032() {
 	int n;
 	scanf("%d", &n);
 	int teamId = 0, teamScore = 0;
