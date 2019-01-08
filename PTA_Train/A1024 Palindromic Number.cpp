@@ -5,7 +5,7 @@ const int N = 54;
 char mp[5] = { 'S','H','C','D','J' };
 int start[N + 1], end[N + 1], next[N + 1];
 
-int main() {
+int main1024a() {
 	int K;
 	scanf("%d", &K);
 	for (int i = 1; i <= N; i++)
