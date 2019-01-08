@@ -4,7 +4,7 @@
 #include <algorithm>
 using namespace std;
 
-int main() {
+int main1010() {
 	int a[1010] = { 0 };
 	int k, e, count = 0;
 	while (true) { 
