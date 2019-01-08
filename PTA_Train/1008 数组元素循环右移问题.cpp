@@ -1,7 +1,7 @@
 #include "pch.h"
 #define _CRT_SECURE_NO_DEPRECATE
 #include <cstdio>
-int main1() {
+int main1008() {
 	int a[110];
 	int n, m, count = 0;
 	scanf("%d%d", &n, &m);

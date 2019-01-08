@@ -1,7 +1,7 @@
 #include "pch.h"
 #define _CRT_SECURE_NO_DEPRECATE
 #include <cstdio>
-int main1() {
+int main1046() {
 	int n, failA = 0, failB = 0;
 	scanf("%d", &n);
 	for (int i = 0; i < n; i++) {

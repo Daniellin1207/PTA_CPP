@@ -1,7 +1,7 @@
 #include "pch.h"
 #define _CRT_SECURE_NO_DEPRECATE
 #include <cstdio>
-int main1() {
+int main1001() {
 	int n=0, step = 0;
 	scanf("%d", &n);
 	while (n != 1) {

@@ -1,7 +1,7 @@
 #include "pch.h"
 #define _CRT_SECURE_NO_DEPRECATE
 #include <cstdio>
-int main() {
+int main1026() {
 	int c1, c2;
 	scanf("%d%d", &c1, &c2);
 	int ans = c2 - c1;

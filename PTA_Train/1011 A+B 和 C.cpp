@@ -1,7 +1,7 @@
 #include "pch.h"
 #define _CRT_SECURE_NO_DEPRECATE
 #include <cstdio>
-int main1() {
+int main1011() {
 	int T, tcase = 1;
 	scanf("%d", &T);
 	while (T--) {

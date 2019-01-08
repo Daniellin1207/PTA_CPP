@@ -7,7 +7,7 @@ using namespace std;
 const int MAXN = 100005;
 int dis[MAXN], A[MAXN];
 
-int main() {
+int main1046a() {
 	int sum = 0, querry, n, left, right;
 	scanf("%d", &n);
 	for (int i = 1; i <= n; i++)

@@ -1,7 +1,7 @@
 #include "pch.h"
 #define _CRT_SECURE_NO_DEPRECATE
 #include <cstdio>
-int main1() {
+int main1016() {
 	long long a, b, da, db;
 	scanf("%lld%lld%lld%lld", &a, &da, &b, &db);
 	long long pa = 0, pb = 0;
