@@ -2,7 +2,7 @@
 #include <cstdio>
 #include <cstring>
 
-int main() {
+int main1014() {
 	char week[7][5] = { "MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN" };
 	char str[4][70];
 	int len[4];
