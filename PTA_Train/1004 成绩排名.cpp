@@ -7,7 +7,7 @@ struct Student {
 	int score;
 }temp,ans_max,ans_min;
 
-int main() {
+int main1004() {
 	int n;
 	scanf("%d", &n);
 	ans_max.score = -1;
