@@ -6,27 +6,16 @@ using namespace std;
 int main1031a() {
 	char str[100];
 	//getc(str);
-	cin.getline(str,100);
+	cin.getline(str, 100);
 	int N = strlen(str);
 	int n1;
 	int n3;
-	if ((N + 2) % 3 == 0) 
-	{
-		n1 = (N + 2) / 3;
-	}
-	else if ((N+2)%3==1)
-	{
-		n1 = (N + 2) / 3;
-	}
-	else
-	{
-		n1 = N / 3 + 1;
-	}
-	n3 = N - 2 * n1;
-	for (int i = 0; i < n1-1; i++)
+	n1 = (N + 2) / 3;
+	n3 = N - 2 * n1 + 2;
+	for (int i = 0; i < n1 - 1; i++)
 	{
 		printf("%c", str[i]);
-		for (int j = 0; j < n3; j++)
+		for (int j = 0; j < n3 - 2; j++)
 		{
 			printf(" ");
 		}

@@ -6,7 +6,7 @@ using namespace std;
 
 char chan[10][10] = {"zero","one","two","three","four","five","six","seven","eight","nine"};
 
-int main() {
+int main1005a() {
 	char n[110];
 	int sum=0;
 	int out[10];
