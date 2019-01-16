@@ -18,7 +18,7 @@ bool cmp(Person a, Person b) {
 	else return strcmp(a.name, b.name) < 0;
 }
 
-int main() {
+int main1055a() {
 	int n, m;
 	scanf("%d%d", &n, &m);
 	for (int i = 0; i < n; i++)
@@ -44,4 +44,5 @@ int main() {
 		if (temp == 0) printf("None\n");
 		else temp = 0;
 	}
+	return 0;
 }
