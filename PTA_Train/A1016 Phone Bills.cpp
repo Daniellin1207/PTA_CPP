@@ -39,7 +39,7 @@ void get_ans(int on, int off, int&time, int& money) {
 	}
 }
 
-int main() {
+int main1016a() {
 	for (int i = 0; i < 24; i++)
 	{
 		scanf("%d", &toll[i]);
