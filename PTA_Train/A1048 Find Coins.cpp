@@ -6,31 +6,31 @@
 #include <iostream>
 using namespace std;
 
-const int N = 1005;
-int hashMap[N];
-
-int main1048a() {
-	int n, m, a;
-	scanf("%d %d", &n, &m);
-	for (int i = 0; i < n; i++)
-	{
-		scanf("%d", &a);
-		++hashMap[a];
-	}
-	for (int i = 0; i < N; i++)
-	{
-		if (hashMap[i] && hashMap[m - i]) {
-			if (i == m - i && hashMap[i] <= 1) {
-				continue;
-			}
-			printf("%d %d\n", i, m - i);
-			return 0;
-		}
-	}
-	printf("No Solution\n");
-	return 0;
-}
-
+//const int N = 1005;
+//int hashMap[N];
+//
+//int main1048a() {
+//	int n, m, a;
+//	scanf("%d %d", &n, &m);
+//	for (int i = 0; i < n; i++)
+//	{
+//		scanf("%d", &a);
+//		++hashMap[a];
+//	}
+//	for (int i = 0; i < N; i++)
+//	{
+//		if (hashMap[i] && hashMap[m - i]) {
+//			if (i == m - i && hashMap[i] <= 1) {
+//				continue;
+//			}
+//			printf("%d %d\n", i, m - i);
+//			return 0;
+//		}
+//	}
+//	printf("No Solution\n");
+//	return 0;
+//}
+//
 
 //int main() {
 //	int n, m,temp;
