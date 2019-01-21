@@ -20,7 +20,7 @@ int main1001a() {
 //#include <stdio.h>
 //#include <math.h>
 //
-//int main() {
+//int main1001a() {
 //	int a, b, sum, c;
 //	scanf("%d %d", &a, &b);
 //	sum = a + b;

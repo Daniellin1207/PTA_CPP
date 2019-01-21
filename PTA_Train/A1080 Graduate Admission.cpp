@@ -29,7 +29,7 @@ const int maxn = 40010;
 //	return a < b;
 //}
 //
-//int main() {
+//int main1080a() {
 //	int n, m, k;
 //
 //	scanf("%d%d%d", &n, &m, &k);

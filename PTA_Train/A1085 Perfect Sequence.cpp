@@ -17,7 +17,7 @@ int binarySearch(int i, long long x) {
 	return l;
 }
 
-int main() {
+int main1085a() {
 	scanf("%d%d", &n, &p);
 	for (int i = 0; i < n; i++)
 	{

@@ -5,7 +5,7 @@
 using namespace std;
 
 //# 本题不可使用int方法原因在于1000位远超int的范围
-//int main() {
+//int main1021() {
 //	int n;
 //	scanf("%d", &n);
 //	if (n<0)

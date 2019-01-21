@@ -8,7 +8,7 @@ using namespace std;
 //bool hashTable[256];
 //char str[maxn];
 //
-//int main() {
+//int main1033() {
 //	memset(hashTable, true, sizeof(hashTable));
 //	cin.getline(str,maxn);
 //	int len = strlen(str);
@@ -38,7 +38,7 @@ using namespace std;
 //	return 0;
 //}
 
-//int main() {
+//int main1033() {
 //	char broken[200];
 //	char str[100010];
 //	cin.getline(broken, 200);

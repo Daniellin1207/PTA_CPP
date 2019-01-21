@@ -122,7 +122,7 @@ int main1095a() {
 //	return (a.hh - b.hh) * 60 * 60 + (a.mm - b.mm) * 60 + (a.ss - b.ss);
 //}
 //
-//int main() {
+//int main1095a() {
 //	int n, m;
 //	scanf("%d %d", &n, &m);
 //

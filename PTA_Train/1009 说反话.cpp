@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-//int main() {
+//int main1009() {
 //	int num = 0;
 //	char ans[90][90];
 //	while (scanf("%s",ans[num])!=EOF)

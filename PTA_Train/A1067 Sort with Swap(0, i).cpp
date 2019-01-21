@@ -46,7 +46,7 @@ int main1067a() {
 //	b = temp;
 //}
 //
-//int main() {
+//int main1067a() {
 //	int num[100010],rec[100010],n,ans=0;
 //	int k;
 //	scanf("%d", &n);

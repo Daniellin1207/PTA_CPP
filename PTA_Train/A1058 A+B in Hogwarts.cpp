@@ -4,7 +4,7 @@
 const int Sickle = 29;
 const int Galleon = 17 * 29;
 
-//int main() {
+//int main1058a() {
 //	int a, b, c, x, y, z;
 //	int v1, v2, v3;
 //	scanf("%d.%d.%d %d.%d.%d", &a, &b, &c, &x, &y, &z);

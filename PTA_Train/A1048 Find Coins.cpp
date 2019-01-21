@@ -32,7 +32,7 @@ using namespace std;
 //}
 //
 
-//int main() {
+//int main1048a() {
 //	int n, m,temp;
 //	int num[100010];
 //	int grade[100010] = { 0 };

@@ -28,7 +28,7 @@ const int maxn = 10010;
 //	else return a.id < b.id;
 //}
 //
-//int main() {
+//int main1075a() {
 //	int n, k, m;
 //	int scoreN[6];
 //	int id, probId, proScore;
