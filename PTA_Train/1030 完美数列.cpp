@@ -3,6 +3,8 @@
 #include <algorithm>
 using namespace std;
 
+
+
 //const int maxn = 100010;
 //int n, p, a[maxn];
 //
