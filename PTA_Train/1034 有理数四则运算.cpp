@@ -63,7 +63,7 @@ void showResult(Fraction r) {
 	}
 	if (r.up < 0) printf(")");
 }
-int main() {
+int main1034() {
 	scanf("%lld/%lld %lld/%lld", &a.up, &a.down, &b.up, &b.down);
 	showResult(a);
 	printf(" + ");
