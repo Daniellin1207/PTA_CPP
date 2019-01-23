@@ -15,7 +15,7 @@ bool isPrime(int n) {
 	return true;
 }
 
-int main() {
+int main1059a() {
 	int n,t;
 	scanf("%d", &t);
 	n = t;
