@@ -5,7 +5,7 @@ using namespace std;
 const int maxn = 1010;
 int arr[maxn];
 stack<int> st;
-int main() {
+int main1051a() {
 	int m, n, T;
 	scanf("%d%d%d", &m, &n, &T);
 	while (T--) {
