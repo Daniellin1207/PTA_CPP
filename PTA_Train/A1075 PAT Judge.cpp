@@ -2,9 +2,9 @@
 #include <cstdio>
 #include <cstring>
 #include <algorithm>
-using namespace std;
-
-const int maxn = 10010;
+//using namespace std;
+//
+//const int maxn = 10010;
 
 //struct Student {
 //	int rank;

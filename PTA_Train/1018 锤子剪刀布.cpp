@@ -1,5 +1,4 @@
 #include "pch.h"
-#define _CRT_SECURE_NO_DEPRECATE
 #include <cstdio>
 //int change(char c) {
 //	if (c == 'B') return 0;

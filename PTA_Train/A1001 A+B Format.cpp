@@ -1,21 +1,21 @@
 #include "pch.h"
 #include <cstdio>
 
-int main1001a() {
-	int a, b, c,temp;
-	scanf("%d %d", &a, &b);
-	c = a + b;
-
-	if (c < 0) {
-		c = -c;
-		printf("-");
-	}
-
-	if (c < 1000) printf("%d", c);
-	else if (c < 1000000) printf("%d,%03d", c / 1000, c % 1000);
-	else printf("%d,%03d,%03d", c / 1000000, c % 1000000 / 1000, c % 1000);
-	return 0;
-}
+//int main1001a() {
+//	int a, b, c,temp;
+//	scanf("%d %d", &a, &b);
+//	c = a + b;
+//
+//	if (c < 0) {
+//		c = -c;
+//		printf("-");
+//	}
+//
+//	if (c < 1000) printf("%d", c);
+//	else if (c < 1000000) printf("%d,%03d", c / 1000, c % 1000);
+//	else printf("%d,%03d,%03d", c / 1000000, c % 1000000 / 1000, c % 1000);
+//	return 0;
+//}
 
 //#include <stdio.h>
 //#include <math.h>

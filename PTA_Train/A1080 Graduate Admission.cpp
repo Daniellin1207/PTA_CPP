@@ -2,9 +2,9 @@
 #include <cstdio>
 #include <cmath>
 #include <algorithm>
-using namespace std;
-
-const int maxn = 40010;
+//using namespace std;
+//
+//const int maxn = 40010;
 
 //struct Student {
 //	int id;
