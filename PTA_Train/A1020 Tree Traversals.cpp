@@ -4,35 +4,37 @@
 #include <queue>
 #include <algorithm>
 //using namespace std;
+//
 //const int maxn = 50;
 //struct node {
 //	int data;
 //	node* lchild;
 //	node* rchild;
 //};
-//int pre[maxn], in[maxn], post[maxn];
+//
+//int in[maxn], post[maxn];
+//int num = 0;
 //int n;
 //
 //node* create(int postL, int postR, int inL, int inR) {
-//	if (postL > postR) {
-//		return NULL;
-//	}
+//	if (postL > postR) return NULL;
 //	node* root = new node;
 //	root->data = post[postR];
-//	int k;
-//	for (k = inL; k <= inR; k++) {
-//		if (in[k] == post[postR]) {
+//	int i;
+//	for (i = inL; i <=inR; i++)
+//	{
+//		if (in[i] == root->data) {
 //			break;
 //		}
 //	}
-//	int numLeft = k - inL;
-//	root->lchild = create(postL, postL + numLeft - 1, inL, k - 1);
-//	root->rchild = create(postL + numLeft, postR - 1, k + 1, inR);
+//	int numLeft = i - inL;
+//	root->lchild = create(postL, postL + numLeft - 1, inL, i - 1);
+//	root->rchild = create(postL + numLeft, postR - 1, i + 1, inR);
 //	return root;
 //}
 //
-//int num = 0;
-//void BFS(node* root) {
+//
+//void BFS(node* &root) {
 //	queue<node*> q;
 //	q.push(root);
 //	while (!q.empty()) {
@@ -48,10 +50,12 @@
 //
 //int main1020a() {
 //	scanf("%d", &n);
-//	for (int i = 0; i < n; i++) {
+//	for (int i = 0; i < n; i++)
+//	{
 //		scanf("%d", &post[i]);
 //	}
-//	for (int i = 0; i < n; i++) {
+//	for (int i = 0; i < n; i++)
+//	{
 //		scanf("%d", &in[i]);
 //	}
 //	node* root = create(0, n - 1, 0, n - 1);

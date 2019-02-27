@@ -1,32 +1,33 @@
 #include "pch.h"
-#include <cstdio>
+//#include <cstdio>
 //
 //int main1036() {
-//	int row, col;
-//	char c;
-//	scanf("%d %c", &col, &c);
-//	if (col % 2 == 1)row = col / 2 + 1;
-//	else row = col / 2;
-//
-//	for (int i = 0; i < col; i++)
+//	int n;
+//	char x;
+//	scanf("%d %c", &n, &x);
+//	for (int i = 0; i < (n+1)/2; i++)
 //	{
-//		printf("%c", c);
-//	}
-//	printf("\n");
-//
-//	for (int i = 2; i < row; i++)
-//	{
-//		printf("%c", c);
-//		for (int j = 0; j < col-2; j++)
-//		{
-//			printf(" ");
+//		if (i == 0) {
+//			for (int j = 0; j < n; j++)
+//			{
+//				printf("%c", x);
+//			}
+//			printf("\n");
 //		}
-//		printf("%c\n", c);
-//	}
-//
-//	for (int i = 0; i < col; i++)
-//	{
-//		printf("%c", c);
+//		else if (i == (n+1) / 2-1) {
+//			for (int j = 0; j < n; j++)
+//			{
+//				printf("%c", x);
+//			}
+//		}
+//		else {
+//			for (int j = 0; j < n; j++)
+//			{
+//				if (j == 0) printf("%c", x);
+//				else if (j == n - 1)printf("%c\n", x);
+//				else printf(" ");
+//			}
+//		}
 //	}
 //	return 0;
 //}

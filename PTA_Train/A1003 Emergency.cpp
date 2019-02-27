@@ -1,7 +1,73 @@
 #include "pch.h"
 #include <cstdio>
-#include <cstring>
 #include <algorithm>
+using namespace std;
+const int maxn = 510;
+int INF = 1e9;
+bool vis[maxn] = { false };
+int G[maxn][maxn], d[maxn];
+
+int n;
+void Dijkstra(int s) {
+	fill(d, d + maxn, INF);
+	d[s] = 0;
+	for (int i = 0; i < n; i++)
+	{
+		int u = -1, MIN = INF;
+		for (int j = 0; j < n; j++)
+		{
+			if (!vis[j] && d[j]<MIN) {
+				u = j;
+				MIN = d[j];
+			}
+		}
+		if (u == -1) return;
+		for (int v = 0; v < n; v++)
+		{
+			if (!vis[v] && G[u][v] != INF) {
+				if (d[v] > d[u] + G[u][v]) {
+					d[v] = d[u] + G[u][v];
+				}
+				else if (d[v] == d[u] + G[u][v]) {
+
+				}
+			}
+		}
+	}
+}
+
+int main() {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//#include <cstdio>
+//#include <cstring>
+//#include <algorithm>
 //using namespace std;
 //const int MAXV = 510;
 //const int INF = 1000000000;

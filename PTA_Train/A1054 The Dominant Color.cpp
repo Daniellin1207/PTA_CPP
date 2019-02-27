@@ -1,35 +1,31 @@
 #include "pch.h"
-#include <cstdio>
-#include <string>
-#include <map>
-#include <iostream>
+//#include <cstdio>
+//#include <map>
 //using namespace std;
 //
-//int main1054a() {
-//	int width, height;
-//	int temp;
-//
-//	map<int, int> dic;
+//int main() {
+//	int width, height,v;
+//	scanf("%d%d", &width, &height);
+//	map<int, int> data;
 //	map<int, int>::iterator it;
 //
-//	scanf("%d%d", &width, &height);
 //	for (int i = 0; i < height; i++)
 //	{
 //		for (int j = 0; j < width; j++)
 //		{
-//			scanf("%d", &temp);
-//			if (dic.find(temp)!=dic.end()) dic[temp]++;
-//			else dic[temp]=1;
+//			scanf("%d", &v);
+//			if (data.find(v) != data.end()) data[v]++;
+//			else data[v] = 1;
 //		}
 //	}
-//	int k=0, v=0;
-//	for (it=dic.begin();it!=dic.end();it++)
+//	int k = 0, MAX = 0;
+//	for (it=data.begin();it!=data.end();it++)
 //	{
-//		if (it->second > v) {
-//			k=it->first;
-//			v = it->second;
+//		if (it->second > MAX) {
+//			k = it->first;
+//			MAX = it->second;
 //		}
 //	}
-//	printf("%d",k);
+//	printf("%d\n", k);
 //	return 0;
 //}

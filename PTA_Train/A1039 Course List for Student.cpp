@@ -1,39 +1,39 @@
 #include "pch.h"
-#include <cstdio>
-#include <cstring>
-#include <vector>
-#include <algorithm>
-//using namespace std;
+//#include <cstdio>
+//#include <cstring>
+//#include <algorithm>
+//#include <vector>
 //
+//using namespace std;
 //const int N = 40010;
 //const int M = 26 * 26 * 26 * 10 + 1;
 //vector<int> selectCourse[M];
 //
-//int getID(char name[]) { // 将名字转化为数字存储
+//int getID(char name[]) {
 //	int id = 0;
 //	for (int i = 0; i < 3; i++)
 //	{
-//		id = id * 26 + (name[i] - 'A');
+//		id = id * 26 + name[i] - 'A';
 //	}
-//	id = id * 10 + (name[3] - '0');
+//	id = id * 10 + name[3] - '0';
 //	return id;
 //}
 //
-//int main1039a() {
+//int main() {
 //	char name[5];
 //	int n, k;
-//	scanf("%d %d", &n, &k);
+//	scanf("%d%d", &n, &k);
 //	for (int i = 0; i < k; i++)
 //	{
 //		int course, x;
 //		scanf("%d%d", &course, &x);
 //		for (int j = 0; j < x; j++)
 //		{
-//			scanf("%s", name);
-//			int id = getID(name);
-//			selectCourse[id].push_back(course);
+//			scanf("%s",name);
+//			selectCourse[getID(name)].push_back(course);
 //		}
 //	}
+//
 //	for (int i = 0; i < n; i++)
 //	{
 //		scanf("%s", name);
