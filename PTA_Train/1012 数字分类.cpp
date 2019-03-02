@@ -1,5 +1,5 @@
 #include "pch.h"
-#include <cstdio>
+//#include <cstdio>
 //int main1012() {
 //	int count[5] = { 0 };
 //	int ans[5] = { 0 };

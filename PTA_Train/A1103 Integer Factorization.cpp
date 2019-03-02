@@ -1,8 +1,8 @@
 #include "pch.h"
-#include <cstdio>
-#include <vector>
-#include <algorithm>	
-using namespace std;
+//#include <cstdio>
+//#include <vector>
+//#include <algorithm>	
+//using namespace std;
 
 //int n, k, p, maxFacSum = -1;
 //vector<int> fac, ans, temp;

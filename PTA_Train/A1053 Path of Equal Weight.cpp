@@ -1,7 +1,7 @@
 #include "pch.h"
-#include <stdio.h>
-#include <vector>
-#include <algorithm>
+//#include <stdio.h>
+//#include <vector>
+//#include <algorithm>
 //using namespace std;
 //const int MAXN = 110;
 //struct node {

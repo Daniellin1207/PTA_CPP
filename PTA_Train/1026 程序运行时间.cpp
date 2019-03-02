@@ -1,5 +1,5 @@
 #include "pch.h"
-#include <cstdio>
+//#include <cstdio>
 //int main1026() {
 //	int c1, c2;
 //	scanf("%d%d", &c1, &c2);

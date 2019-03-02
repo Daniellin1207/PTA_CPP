@@ -1,8 +1,8 @@
 #include "pch.h"
-#include <cstdio>
-#include <cstring>
-#include <map>
-#include <iostream>
+//#include <cstdio>
+//#include <cstring>
+//#include <map>
+//#include <iostream>
 //using namespace std;
 //
 //int main1038() {

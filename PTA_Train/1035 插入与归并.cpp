@@ -1,7 +1,7 @@
 #include "pch.h"
-#include <cstdio>
-#include <algorithm>
-using namespace std;
+//#include <cstdio>
+//#include <algorithm>
+//using namespace std;
 
 //int n;
 //const int N = 111;

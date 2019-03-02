@@ -1,7 +1,7 @@
 #include "pch.h"
-#include <stdio.h>
-#include <cmath>
-#include <vector>
+//#include <stdio.h>
+//#include <cmath>
+//#include <vector>
 //using namespace std;
 //const int maxn = 100010;
 //const double INF = 1e12;

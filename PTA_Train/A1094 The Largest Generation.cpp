@@ -1,6 +1,6 @@
 #include "pch.h"
-#include <stdio.h>
-#include <vector>
+//#include <stdio.h>
+//#include <vector>
 //using namespace std;
 //const int MAXN = 110;
 //vector<int> Node[MAXN];

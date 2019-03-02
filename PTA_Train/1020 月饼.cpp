@@ -1,8 +1,8 @@
 #include "pch.h"
-#include <cstdio>
-#include <cstring>
-#include <algorithm>
-#include <iostream>
+//#include <cstdio>
+//#include <cstring>
+//#include <algorithm>
+//#include <iostream>
 //using namespace std;
 //
 //struct MoonCake {

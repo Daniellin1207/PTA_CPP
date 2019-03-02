@@ -1,8 +1,8 @@
 #include "pch.h"
-#include <cstdio>
-#include <string>
-#include <map>
-#include <iostream>
+//#include <cstdio>
+//#include <string>
+//#include <map>
+//#include <iostream>
 //using namespace std;
 //
 //bool check(char c) {

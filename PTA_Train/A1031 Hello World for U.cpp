@@ -1,7 +1,7 @@
 #include "pch.h"
-#include <cstdio>
-#include <iostream>
-#include <cstring>
+//#include <cstdio>
+//#include <iostream>
+//#include <cstring>
 //using namespace std;
 //int main1031a() {
 //	char str[100];

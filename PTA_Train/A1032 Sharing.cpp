@@ -1,6 +1,6 @@
 #include "pch.h"
-#include <cstdio>
-#include <cstring>	
+//#include <cstdio>
+//#include <cstring>	
 //const int maxn = 100010;
 //struct NODE {
 //	char data;

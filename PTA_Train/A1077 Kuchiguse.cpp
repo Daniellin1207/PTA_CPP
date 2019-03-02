@@ -1,8 +1,8 @@
 #include "pch.h"
-#include <cstdio>	
-#include <cstring>
-#include <iostream>
-using namespace std;
+//#include <cstdio>	
+//#include <cstring>
+//#include <iostream>
+//using namespace std;
 
 //int n, minLen = 256, ans = 0;
 //char s[100][256];

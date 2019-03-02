@@ -1,5 +1,5 @@
 #include "pch.h"
-#include <cstdio>
+//#include <cstdio>
 
 //struct Student {
 //	char name[15];

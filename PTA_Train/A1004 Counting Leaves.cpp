@@ -1,8 +1,8 @@
 #include "pch.h"
-#include <stdio.h>
-#include <vector>
-#include <cstdio>
-#include <algorithm>
+//#include <stdio.h>
+//#include <vector>
+//#include <cstdio>
+//#include <algorithm>
 //using namespace std;
 //const int N = 110;
 //

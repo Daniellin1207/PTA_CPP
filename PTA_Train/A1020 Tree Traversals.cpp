@@ -1,8 +1,8 @@
 #include "pch.h"
-#include <stdio.h>
-#include <cstring>
-#include <queue>
-#include <algorithm>
+//#include <stdio.h>
+//#include <cstring>
+//#include <queue>
+//#include <algorithm>
 //using namespace std;
 //
 //const int maxn = 50;

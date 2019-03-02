@@ -1,6 +1,6 @@
 #include "pch.h"
-#include <cstdio>
-#include <cstring>
+//#include <cstdio>
+//#include <cstring>
 
 //int main1061a() {
 //	char week[7][5] = { "MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN" };

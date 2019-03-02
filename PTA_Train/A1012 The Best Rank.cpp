@@ -1,8 +1,8 @@
 #include "pch.h"
-#include <cstdio>
-#include <cmath>
-#include <algorithm>
-using namespace std;
+//#include <cstdio>
+//#include <cmath>
+//#include <algorithm>
+//using namespace std;
 
 //struct Student {
 //	int id;

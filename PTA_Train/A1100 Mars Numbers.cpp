@@ -18,7 +18,7 @@
 //		numToStr[i * 13] = tenDigit[i];
 //		strToNum[tenDigit[i]] = 13 * i;
 //	}
-//	for (int i = 1;	i < 13; i++)
+//	for (int i = 1; i < 13; i++)
 //	{
 //		for (int j = 1; j < 13; j++)
 //		{
@@ -28,7 +28,7 @@
 //		}
 //	}
 //}
-//int main1044() {
+//int main1100a() {
 //	init();
 //	int T;
 //	scanf("%d%*c", &T);

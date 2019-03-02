@@ -1,7 +1,7 @@
 #include "pch.h"
-#include <cstdio>
-#include <cmath>
-#include <algorithm>
+//#include <cstdio>
+//#include <cmath>
+//#include <algorithm>
 //using namespace std;
 //
 //const int maxn = 40010;

@@ -1,8 +1,8 @@
 #include "pch.h"
-#include <cstdio>
-#include <map>
-#include <cstring>
-#include <algorithm>
+//#include <cstdio>
+//#include <map>
+//#include <cstring>
+//#include <algorithm>
 //using namespace std;
 //
 //const int maxn = 10010;

@@ -1,7 +1,7 @@
 #include "pch.h"
-#include <stdio.h>
-#include <queue>
-#include <algorithm>
+//#include <stdio.h>
+//#include <queue>
+//#include <algorithm>
 //using namespace std;
 //const int maxn = 110;
 //struct node {

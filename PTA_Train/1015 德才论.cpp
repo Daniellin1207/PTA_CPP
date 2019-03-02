@@ -1,8 +1,8 @@
 #include "pch.h"
-#include <cstdio>
-#include <cstring>
-#include <algorithm>
-using namespace std;
+//#include <cstdio>
+//#include <cstring>
+//#include <algorithm>
+//using namespace std;
 
 // 此题目中的algorithm中的sort带三个参数的用法需要了解
 

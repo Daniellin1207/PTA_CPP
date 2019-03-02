@@ -1,8 +1,8 @@
 #include "pch.h"
-#include <cstdio>
-#include <cstring>
-#include <iostream>
-#include <cmath>
+//#include <cstdio>
+//#include <cstring>
+//#include <iostream>
+//#include <cmath>
 //using namespace std;
 //
 //

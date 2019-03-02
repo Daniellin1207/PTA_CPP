@@ -1,8 +1,8 @@
 #include "pch.h"
-#include <cstdio>
-#include <cstring>
-#include <vector>
-#include <algorithm>
+//#include <cstdio>
+//#include <cstring>
+//#include <vector>
+//#include <algorithm>
 //using namespace std;
 //const int N = 100010;
 //vector<int> G[N];

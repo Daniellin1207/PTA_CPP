@@ -1,8 +1,8 @@
 #include "pch.h"
-#include <cstdio>
-#include <cstring>
-#include <iostream>
-using namespace std;
+//#include <cstdio>
+//#include <cstring>
+//#include <iostream>
+//using namespace std;
 
 //const int maxn = 100010;
 //bool hashTable[256];

@@ -1,9 +1,9 @@
 #include "pch.h"
-#include <cstdio>
-#include <cstring>
-#include <cmath>
-#include <iostream>
-using namespace std;
+//#include <cstdio>
+//#include <cstring>
+//#include <cmath>
+//#include <iostream>
+//using namespace std;
 
 //struct Team {
 //	int num;

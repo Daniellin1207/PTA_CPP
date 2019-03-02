@@ -1,5 +1,5 @@
 #include "pch.h"
-#include <cstdio>
+//#include <cstdio>
 //int change(char c) {
 //	if (c == 'B') return 0;
 //	if (c == 'C') return 1;

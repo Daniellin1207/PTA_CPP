@@ -1,7 +1,7 @@
 #include "pch.h"
-#include <string>
-#include <iostream>
-using namespace std;
+//#include <string>
+//#include <iostream>
+//using namespace std;
 //int n;
 //string deal(string s, int& e) {
 //	int k = 0;

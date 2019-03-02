@@ -1,9 +1,9 @@
 #include "pch.h"
-#include <cstdio>
-#include <cstring>
-#include <algorithm>
-#include <iostream>
-using namespace std;
+//#include <cstdio>
+//#include <cstring>
+//#include <algorithm>
+//#include <iostream>
+//using namespace std;
 
 
 //bool cmp(int a, int b) {

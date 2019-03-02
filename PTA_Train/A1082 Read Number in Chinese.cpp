@@ -1,7 +1,7 @@
 #include "pch.h"
-#include <cstdio>
-#include <cstring>
-#include <iostream>
+//#include <cstdio>
+//#include <cstring>
+//#include <iostream>
 //using namespace std;
 //
 //char num[10][5]={ "ling","yi", "er", "san", "si", "wu", "liu", "qi", "ba", "jiu" };

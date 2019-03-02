@@ -1,8 +1,8 @@
 #include "pch.h"
-#include <cstdio>
-#include <cstring>
-#include <vector>	
-#include <algorithm>
+//#include <cstdio>
+//#include <cstring>
+//#include <vector>	
+//#include <algorithm>
 //using namespace std;
 //const int MAXV = 510;
 //const int INF = 1e9;

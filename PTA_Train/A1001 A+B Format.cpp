@@ -1,5 +1,5 @@
 #include "pch.h"
-#include <cstdio>
+//#include <cstdio>
 
 //int main1001a() {
 //	int a, b, c,temp;

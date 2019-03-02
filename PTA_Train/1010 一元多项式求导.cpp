@@ -1,7 +1,7 @@
 #include "pch.h"
-#include <cstdio>
-#include <algorithm>
-using namespace std;
+//#include <cstdio>
+//#include <algorithm>
+//using namespace std;
 
 //int main1010() {
 //	int a[1010] = { 0 };

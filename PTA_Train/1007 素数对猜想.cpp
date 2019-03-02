@@ -1,8 +1,8 @@
 #include "pch.h"
-#include <cstdio>
-#include <cstring>
-#include <cmath>
-#include <iostream>
+//#include <cstdio>
+//#include <cstring>
+//#include <cmath>
+//#include <iostream>
 //using namespace std;
 
 //bool isPrime(int n) {

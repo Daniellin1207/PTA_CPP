@@ -1,8 +1,8 @@
 #include "pch.h"
-#include <cstdio>
-#include <cstring>
-#include <algorithm>
-using namespace std;
+//#include <cstdio>
+//#include <cstring>
+//#include <algorithm>
+//using namespace std;
 
 //const int maxn = 100005;
 //const int TABLE = 1000010;

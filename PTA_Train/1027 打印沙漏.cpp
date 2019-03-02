@@ -1,6 +1,6 @@
 #include "pch.h"
-#include <cstdio>
-#include <cmath>
+//#include <cstdio>
+//#include <cmath>
 //int main1027() {
 //	int n;
 //	char c;

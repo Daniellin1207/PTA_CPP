@@ -1,8 +1,8 @@
 #include "pch.h"
-#include <cstdio>
-#include <cstring>
-#include <algorithm>
-using namespace std;
+//#include <cstdio>
+//#include <cstring>
+//#include <algorithm>
+//using namespace std;
 
 //typedef long long LL;
 //LL Map[256];

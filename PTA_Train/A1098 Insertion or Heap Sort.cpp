@@ -1,6 +1,6 @@
 #include "pch.h"
-#include <cstdio>
-#include <algorithm>
+//#include <cstdio>
+//#include <algorithm>
 //using namespace std;
 //const int N = 111;
 //int origin[N], tempOri[N], changed[N];

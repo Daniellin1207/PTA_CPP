@@ -1,5 +1,5 @@
 #include "pch.h"
-#include <cstdio>
+//#include <cstdio>
 
 // ·½·¨2
 //int gcd(int a, int b) {

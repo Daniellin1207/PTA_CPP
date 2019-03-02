@@ -1,7 +1,7 @@
 #include "pch.h"
-#include <cstdio>
-#include <algorithm>
-using namespace std;
+//#include <cstdio>
+//#include <algorithm>
+//using namespace std;
 
 //const int N = 100010;
 //int sum[N];

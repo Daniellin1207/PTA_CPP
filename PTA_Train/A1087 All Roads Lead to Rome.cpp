@@ -1,10 +1,10 @@
 #include "pch.h"
-#include <iostream>
-#include <cstdio>
-#include <cstring>
-#include <map>
-#include <string>
-#include <algorithm>
+//#include <iostream>
+//#include <cstdio>
+//#include <cstring>
+//#include <map>
+//#include <string>
+//#include <algorithm>
 //using namespace std;
 //const int MAXV = 210;
 //const int INF = 1e9;

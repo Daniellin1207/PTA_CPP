@@ -1,7 +1,7 @@
 #include "pch.h"
-#include <cstdio>
-#include <iostream>
-#include <cstring>
+//#include <cstdio>
+//#include <iostream>
+//#include <cstring>
 //using namespace std;
 //
 //char chan[10][10] = {"zero","one","two","three","four","five","six","seven","eight","nine"};

@@ -1,5 +1,5 @@
 #include "pch.h"
-#include <cstdio>
+//#include <cstdio>
 //
 //bool Judge(int z[], int num) {
 //	for (int i = 0; i <= num/2; i++) {

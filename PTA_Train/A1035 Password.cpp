@@ -1,6 +1,6 @@
 #include "pch.h"
-#include <cstdio>
-#include <cstring>
+//#include <cstdio>
+//#include <cstring>
 
 //struct node{
 //	char name[20], password[20];

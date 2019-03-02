@@ -1,6 +1,6 @@
 #include "pch.h"
-#include <cstdio>
-#include <cstring>
+//#include <cstdio>
+//#include <cstring>
 
 //char change[11] = { '1', '0', 'X', '9', '8', '7', '6', '5', '4', '3' , '2' };
 //int w[17] = { 7,9,10,5,8,4,2,1,6,3,7,9,10,5,8,4,2 };

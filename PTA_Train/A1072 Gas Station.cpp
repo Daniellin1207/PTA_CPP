@@ -1,7 +1,7 @@
 #include "pch.h"
-#include <cstdio>
-#include <cstring>
-#include <algorithm>
+//#include <cstdio>
+//#include <cstring>
+//#include <algorithm>
 //using namespace std;
 //const int MAXV = 1020;
 //const int INF = 1e9;

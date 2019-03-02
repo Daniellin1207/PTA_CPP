@@ -1,6 +1,6 @@
 #include "pch.h"
-#include <cstdio>
-#include <cstring>
+//#include <cstdio>
+//#include <cstring>
 
 //const int maxn = 110;
 //char A[maxn], B[maxn], ans[maxn] = { 0 };
